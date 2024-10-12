@@ -109,7 +109,7 @@
       </div>
 
       <footer class="text-center  text-white bg-indigo-600 p-2">
-        <p>&copy; <span class="font-bold">Miguel Angel Suarez Pluma.</span>  <?php echo(date('Y') ); ?> | Todos los derechos reservados</p>
+        <p>&copy; <span class="font-bold">Miguel Angel Suarez Pluma.</span> | Todos los derechos reservados</p>
     </footer>
 
       <script src="js/app.js"></script>
